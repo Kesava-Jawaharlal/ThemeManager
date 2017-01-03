@@ -1,0 +1,16 @@
+PODS:
+  - ThemeManager (0.1.0)
+
+DEPENDENCIES:
+  - ThemeManager (from `../`)
+
+EXTERNAL SOURCES:
+  ThemeManager:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ThemeManager: 76701689ece61a49d77df1019b895c4b75fc409c
+
+PODFILE CHECKSUM: b89c097660b7ef19719e1f031e2499f411de320c
+
+COCOAPODS: 1.1.1

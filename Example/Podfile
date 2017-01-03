@@ -6,6 +6,5 @@ target 'ThemeManager_Example' do
   target 'ThemeManager_Tests' do
     inherit! :search_paths
 
-    pod 'FBSnapshotTestCase'
   end
 end
